@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahfaegiesh.dgjones.info/sitemap.xml
